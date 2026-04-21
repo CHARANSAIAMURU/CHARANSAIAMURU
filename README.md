@@ -115,7 +115,21 @@ open_to    : [ "Full-time", "Contracts", "Collabs" ]
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CHARANSAIAMURU&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/..." />
+## 🏆 Developer Highlights
+
+<div align="center">
+
+| Area | Focus |
+|------|-------|
+| 💻 Full Stack | Java, Python, C#, JavaScript |
+| 🧠 Backend | ASP.NET MVC, Spring Boot, SQL |
+| 🚚 Featured Project | TruckIQ Fleet Management |
+| ☁️ Learning | Cloud, DevOps, System Design |
+
+</div>
+
+---
 
 </div>
 
