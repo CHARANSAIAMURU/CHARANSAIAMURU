@@ -113,9 +113,11 @@ open_to    : [ "Full-time", "Contracts", "Collabs" ]
 
 ## 🏆 Trophies
 
+## 🏆 Trophies
+
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=CHARANSAIAMURU&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=CHARANSAIAMURU&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=10&amp;row=1&amp;column=6" alt="GitHub Trophies" />
 
 </div>
 
@@ -133,12 +135,14 @@ open_to    : [ "Full-time", "Contracts", "Collabs" ]
 
 ## 🐍 Contribution Snake
 
+## 🐍 Contribution Snake
+
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/CHARANSAIAMURU/CHARANSAIAMURU/raw/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/CHARANSAIAMURU/CHARANSAIAMURU/raw/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://github.com/CHARANSAIAMURU/CHARANSAIAMURU/raw/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHARANSAIAMURU/CHARANSAIAMURU/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CHARANSAIAMURU/CHARANSAIAMURU/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/CHARANSAIAMURU/CHARANSAIAMURU/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
