@@ -111,8 +111,6 @@ open_to    : [ "Full-time", "Contracts", "Collabs" ]
 
 ---
 
-
-
 ## 🏆 Trophies
 
 <div align="center">
