@@ -111,7 +111,7 @@ open_to    : [ "Full-time", "Contracts", "Collabs" ]
 
 ---
 
-## 🏆 Trophies
+
 
 ## 🏆 Trophies
 
@@ -133,7 +133,7 @@ open_to    : [ "Full-time", "Contracts", "Collabs" ]
 
 ---
 
-## 🐍 Contribution Snake
+
 
 ## 🐍 Contribution Snake
 
