@@ -1,35 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=240&amp;color=gradient&amp;text=Charan%20Sai%20Amuru&amp;fontSize=58&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;color=gradient&amp;text=Charan%20Sai%20Amuru&amp;fontSize=58&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;section=header" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Software+Engineer;Java+%E2%80%A2+Python+%E2%80%A2+C%23+%E2%80%A2+Full+Stack;Texas+A%26M+CS+Graduate;Building+scalable+applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2500&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Software+Engineer;Java+%E2%80%A2+Python+%E2%80%A2+C%23+%E2%80%A2+Full+Stack;Texas+A%26M+CS+Graduate;Building+scalable+applications" alt="Typing SVG" />
 
 <br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=CHARANSAIAMURU&style=flat-square&color=58a6ff&label=profile%20views)](https://github.com/CHARANSAIAMURU)
+<img src="https://komarev.com/ghpvc/?username=CHARANSAIAMURU&amp;style=flat-square&amp;color=58a6ff&amp;label=profile%20views" />
 &nbsp;
-[![GitHub Followers](https://img.shields.io/github/followers/CHARANSAIAMURU?style=flat-square&color=58a6ff&labelColor=0d1117&label=followers)](https://github.com/CHARANSAIAMURU?tab=followers)
+<img src="https://img.shields.io/github/followers/CHARANSAIAMURU?style=flat-square&amp;color=58a6ff&amp;labelColor=0d1117&amp;label=followers" />
 &nbsp;
-[![GitHub Stars](https://img.shields.io/github/stars/CHARANSAIAMURU?style=flat-square&color=ff6e96&labelColor=0d1117&label=stars)](https://github.com/CHARANSAIAMURU)
+<img src="https://img.shields.io/github/stars/CHARANSAIAMURU?style=flat-square&amp;color=ff6e96&amp;labelColor=0d1117&amp;label=stars" />
 
 </div>
-<br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+software+that+matters+%F0%9F%9A%80;Texas+A%26M+CS+Graduate+%F0%9F%8E%93;Java+%E2%80%A2+Python+%E2%80%A2+C%23+%E2%80%A2+Full+Stack;Debugging+the+universe%2C+one+line+at+a+time+%F0%9F%8C%8C" alt="Typing SVG" />
-</a>
+---
 
-<br/><br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=CHARANSAIAMURU&style=flat-square&color=58a6ff&label=profile%20views)](https://github.com/CHARANSAIAMURU)
-&nbsp;
-[![GitHub Followers](https://img.shields.io/github/followers/CHARANSAIAMURU?style=flat-square&color=58a6ff&labelColor=0d1117&label=followers)](https://github.com/CHARANSAIAMURU?tab=followers)
-&nbsp;
-[![GitHub Stars](https://img.shields.io/github/stars/CHARANSAIAMURU?style=flat-square&color=ff6e96&labelColor=0d1117&label=stars)](https://github.com/CHARANSAIAMURU)
-
-</div>
+## 👨‍💻 About Me
 
 ---
 
