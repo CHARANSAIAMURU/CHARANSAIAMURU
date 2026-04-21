@@ -117,7 +117,7 @@ open_to    : [ "Full-time", "Contracts", "Collabs" ]
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=CHARANSAIAMURU&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=10&amp;row=1&amp;column=6" alt="GitHub Trophies" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=CHARANSAIAMURU&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
