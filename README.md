@@ -111,11 +111,6 @@ open_to    : [ "Full-time", "Contracts", "Collabs" ]
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/..." />
 ## 🏆 Developer Highlights
 
 <div align="center">
