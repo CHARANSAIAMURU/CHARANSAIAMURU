@@ -1,10 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d2137,60:0a3d62,100:1a6ba8&height=230&section=header&text=Charan%20Sai%20Amuru&fontSize=56&fontColor=e6edf3&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%E2%80%A2%20Texas%20A%26M%20University%20%E2%80%A2%20Corpus%20Christi%20TX&descSize=16&descAlignY=63&descColor=8b949e)
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=240&amp;color=gradient&amp;text=Charan%20Sai%20Amuru&amp;fontSize=58&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;section=header" width="100%" />
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+software+that+matters+🚀;Texas+A%26M+CS+Graduate+🎓;Java+•+Python+•+C%23+•+Full+Stack;Debugging+the+universe,+one+line+at+a+time+🌌)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Software+Engineer;Java+%E2%80%A2+Python+%E2%80%A2+C%23+%E2%80%A2+Full+Stack;Texas+A%26M+CS+Graduate;Building+scalable+applications" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -15,7 +15,6 @@
 [![GitHub Stars](https://img.shields.io/github/stars/CHARANSAIAMURU?style=flat-square&color=ff6e96&labelColor=0d1117&label=stars)](https://github.com/CHARANSAIAMURU)
 
 </div>
-
 <br/>
 
 <a href="https://git.io/typing-svg">
