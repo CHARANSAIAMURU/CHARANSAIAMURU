@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,30:0d2137,60:0a3d62,100:1a6ba8&amp;height=230&amp;section=header&amp;text=Charan%20Sai%20Amuru&amp;fontSize=56&amp;fontColor=e6edf3&amp;animation=fadeIn&amp;fontAlignY=42&amp;desc=Software%20Engineer%20%7C%20Texas%20A%26M%20University&amp;descSize=16&amp;descAlignY=63&amp;descColor=8b949e" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=20&amp;duration=2500&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Java+%7C+Python+%7C+C%23+%7C+Full+Stack;Building+Scalable+Applications;Software+Engineer" />
 
 </div>
 
