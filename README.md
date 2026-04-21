@@ -1,8 +1,6 @@
-<div>
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+%7C+Python+%7C+C%23+%7C+Full+Stack;Building+Scalable+Applications;Software+Engineer)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d2137,60:0a3d62,100:1a6ba8&height=230&section=header&text=Charan%20Sai%20Amuru&fontSize=56&fontColor=e6edf3&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%E2%80%A2%20Texas%20A%26M%20University%20%E2%80%A2%20Corpus%20Christi%20TX&descSize=16&descAlignY=63&descColor=8b949e" width="100%"/>
 
 <br/>
 
